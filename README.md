@@ -2,7 +2,7 @@ _Boas vindas ao meu perfil do Github_
 
 Meu nome é Gustavo Tczorney
 
-  Estou estudando na Alura
+  Estou estudando na [Alura](https://www.alura.com.br)
   
   Estou me desenvolvendo na linguagem JavaScript
   

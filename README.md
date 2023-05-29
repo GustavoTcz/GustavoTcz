@@ -8,4 +8,4 @@ Meu nome é Gustavo Tczorney
   
   ## Quer entrar em contato comigo
   
-  gustavo.tczorney6@gmail.com
+  gustavo.tczorney76@gmail.com

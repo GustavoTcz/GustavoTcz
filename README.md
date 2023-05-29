@@ -1,4 +1,4 @@
-_Boas vindas ao meu perfil do Github**
+_Boas vindas ao meu perfil do Github_
 
 Meu nome é Gustavo Tczorney
 

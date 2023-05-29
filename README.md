@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @GustavoTcz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Boas vindas ao meu perfil do Github
 
-<!---
-GustavoTcz / GustavoTcz é um repositório especial ✨ ✨ porque seu `README.md` ( esse arquivo ) aparece no seu perfil GitHub.
-Você pode clicar sem link Visualizar para dar uma olhada nas suas alterações.
-kkdkkkdkdk --- 
+Meu nome é Gustavo Tczorney
+
+  Estou estudando na Alura
+  Estou desenvolvendo na linguagem JavaScript
+  Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+  
+  ## Quer entrar em contato comigo
+  
+  gustavo.tczorney6@gmail.com

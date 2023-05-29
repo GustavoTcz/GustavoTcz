@@ -4,7 +4,7 @@ Meu nome é Gustavo Tczorney
 
   Estou estudando na Alura
   
-  Estou desenvolvendo na linguagem JavaScript
+  Estou me desenvolvendo na linguagem JavaScript
   
   Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
   
